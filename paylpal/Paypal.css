@@ -1,0 +1,19 @@
+.img1{
+  width: 120px;
+}
+
+.nav
+{
+    background-color: rgba(63, 95, 95, 0.192);
+ }
+
+ li{
+    list-style-type: none;
+    display: inline;
+      margin: 35px;
+    }
+
+.Nav2{
+    padding-left: 50%;
+    display:inline
+}
