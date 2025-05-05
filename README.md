@@ -1,3 +1,5 @@
+![logo](https://github.com/msam5345/msam5345/blob/main/WhatsApp%20Image%202025-05-06%20at%202.58.07%20AM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
