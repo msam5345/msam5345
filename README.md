@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;JavaScript+%7C+Python+%7C+Streamlit+Lover;Building+Fast+%26+Responsive+Websites" alt="Typing SVG" />
 </p>
 <p align="right">
-  <img align="right" alt="coding" width="400" src="image.gif">
+  <img align="right" alt="coding" width="400" href="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </p>
 - 🔭 I’m currently working on **FANOFAN**
 
