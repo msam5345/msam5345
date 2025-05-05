@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Next.js+%7C+Tailwind+CSS+%7C+TypeScript;JavaScript+%7C+Python+%7C+Streamlit+Lover;Building+Fast+%26+Responsive+Websites" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **FANOFAN**
 
 - 🌱 I’m currently learning **React.js , nodes.js**
