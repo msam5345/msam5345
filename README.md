@@ -11,7 +11,7 @@
 </p>
 - 🔭 I’m currently working on **Lab Automation**
 
-- 🌱 I’m currently learning **React.js , nodes.js**
+- 🌱 I’m currently learning **C Sharp , Dot Net**
 
 - 👯 I’m looking to collaborate on **Professional websites**
 
